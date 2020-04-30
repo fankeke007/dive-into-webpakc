@@ -34,7 +34,7 @@
 
 5. debug 选项（帮助在编译过程中更好地debug）
 
-        webpack --debug     #默认值为false，因为开启会导致编译速度较慢
+        webpack --debug     #默认值为false
         webpack --devtool   #选择一种 source map 格式来增强调试过程
         webpack --progress  #打印编译进度百分比值
         webpack --display-error-details  #打印详细错误
