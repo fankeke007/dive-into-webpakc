@@ -1,3 +1,5 @@
+import D from './d'
 export default {
-    key:'something'
+    key:'something',
+    D:D
 }
